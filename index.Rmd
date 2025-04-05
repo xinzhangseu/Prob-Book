@@ -1,8 +1,7 @@
 --- 
-title: "优雅的 bookdown 书籍模版"
+title: "概率论"
 author: 
-  - 黄湘云
-  - 叶 飞
+  - 张 鑫
 site: bookdown::bookdown_site
 documentclass: elegantbook
 bibliography: 
@@ -13,7 +12,7 @@ mathspec: true
 graphics: true
 lot: true
 lof: true
-github-repo: XiangyunHuang/ElegantBookdown
+github-repo: xinzhangseu/Prob-Book.git
 classoption: 
  - lang=cn
  - titlestyle=hang
