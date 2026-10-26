@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+.history
+packages.bib
+
+rsconnect/
+_book/
+_bookdown_files/
+
+Probability.log
+Probability.rds
+ElegantBookdown.rds
+ElegantBookdown.log
+render*.rds
